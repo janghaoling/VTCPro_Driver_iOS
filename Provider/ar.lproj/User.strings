@@ -1,0 +1,351 @@
+
+/* Class = "UIBarButtonItem"; title = "Invide Refferal"; ObjectID = "0S5-FH-D7c"; */
+"0S5-FH-D7c.title" = "Invide Refferal";
+
+/* Class = "UIButton"; normalTitle = "INVITE FRIENDS"; ObjectID = "0dq-UM-nca"; */
+"0dq-UM-nca.normalTitle" = "INVITE FRIENDS";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "2se-0a-9fr"; */
+"2se-0a-9fr.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "Referal Code (Optional)"; ObjectID = "3Ad-f6-TgO"; */
+"3Ad-f6-TgO.placeholder" = "Referal Code (Optional)";
+
+/* Class = "UILabel"; text = "Refferal earning"; ObjectID = "3pT-hp-0Xl"; */
+"3pT-hp-0Xl.text" = "Refferal earning";
+
+/* Class = "UITextField"; placeholder = "Old Password"; ObjectID = "3q7-X7-a6e"; */
+"3q7-X7-a6e.placeholder" = "Old Password";
+
+/* Class = "UILabel"; text = "Facebook"; ObjectID = "4c0-Fz-ESP"; */
+"4c0-Fz-ESP.text" = "Facebook";
+
+/* Class = "UITextField"; placeholder = "PlaceHolder"; ObjectID = "4nZ-OZ-AeW"; */
+"4nZ-OZ-AeW.placeholder" = "PlaceHolder";
+
+/* Class = "UILabel"; text = "Wednesday"; ObjectID = "5B4-x6-OC0"; */
+"5B4-x6-OC0.text" = "Wednesday";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "5et-t1-I1Y"; */
+"5et-t1-I1Y.placeholder" = "Name";
+
+/* Class = "UILabel"; text = "Shuttle"; ObjectID = "71p-sq-tby"; */
+"71p-sq-tby.text" = "Shuttle";
+
+/* Class = "UITextField"; placeholder = "PhoneNumber"; ObjectID = "74V-PJ-AO6"; */
+"74V-PJ-AO6.placeholder" = "PhoneNumber";
+
+/* Class = "UILabel"; text = "Outstation"; ObjectID = "7oN-j6-bGE"; */
+"7oN-j6-bGE.text" = "Outstation";
+
+/* Class = "UILabel"; text = "vehicle photo"; ObjectID = "7sw-zo-e7N"; */
+"7sw-zo-e7N.text" = "vehicle photo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8Su-x5-mN9"; */
+"8Su-x5-mN9.text" = "Label";
+
+/* Class = "UILabel"; text = "Friday"; ObjectID = "8mH-Bu-gjB"; */
+"8mH-Bu-gjB.text" = "Friday";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "99C-Ph-LU1"; */
+"99C-Ph-LU1.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Our team persons will contact ypu soon!"; ObjectID = "9ra-42-bNM"; */
+"9ra-42-bNM.text" = "Our team persons will contact ypu soon!";
+
+/* Class = "UITextField"; placeholder = "Last name"; ObjectID = "A3K-v0-QNf"; */
+"A3K-v0-QNf.placeholder" = "Last name";
+
+/* Class = "UILabel"; text = "I have read and agreed the Terms and Conditions"; ObjectID = "A7d-vL-822"; */
+"A7d-vL-822.text" = "I have read and agreed the Terms and Conditions";
+
+/* Class = "UITextField"; placeholder = "PlaceHolder"; ObjectID = "AAD-u4-Zha"; */
+"AAD-u4-Zha.placeholder" = "PlaceHolder";
+
+/* Class = "UIButton"; normalTitle = "SIGNUP"; ObjectID = "Ahg-tV-scR"; */
+"Ahg-tV-scR.normalTitle" = "SIGNUP";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "AtC-Ps-tAd"; */
+"AtC-Ps-tAd.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Given the free ride by reffering the invide code worth 10CBC"; ObjectID = "DOh-Vc-9NS"; */
+"DOh-Vc-9NS.text" = "Given the free ride by reffering the invide code worth 10CBC";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "Feu-MK-SWm"; */
+"Feu-MK-SWm.placeholder" = "Name";
+
+/* Class = "UITextField"; placeholder = "Vehicle Year"; ObjectID = "Fft-DL-ABU"; */
+"Fft-DL-ABU.placeholder" = "Vehicle Year";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FtC-jQ-TIh"; */
+"FtC-jQ-TIh.text" = "Label";
+
+/* Class = "UILabel"; text = "7TYF"; ObjectID = "Gb5-hE-Wac"; */
+"Gb5-hE-Wac.text" = "7TYF";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "GkE-xL-9wu"; */
+"GkE-xL-9wu.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Two Way"; ObjectID = "Gx4-Xi-36M"; */
+"Gx4-Xi-36M.text" = "Two Way";
+
+/* Class = "UILabel"; text = "label"; ObjectID = "HAo-XG-ddp"; */
+"HAo-XG-ddp.text" = "label";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "HK3-Bq-tVC"; */
+"HK3-Bq-tVC.title" = "Item";
+
+/* Class = "UIBarButtonItem"; title = "Your trips"; ObjectID = "ILb-gI-8El"; */
+"ILb-gI-8El.title" = "Your trips";
+
+/* Class = "UIButton"; normalTitle = "Or connect with social"; ObjectID = "Ibb-hF-1i1"; */
+"Ibb-hF-1i1.normalTitle" = "Or connect with social";
+
+/* Class = "UITextField"; placeholder = "PlaceHolder"; ObjectID = "Jjr-uf-y2q"; */
+"Jjr-uf-y2q.placeholder" = "PlaceHolder";
+
+/* Class = "UIButton"; normalTitle = "Upcoming"; ObjectID = "Jl8-L0-xy2"; */
+"Jl8-L0-xy2.normalTitle" = "Upcoming";
+
+/* Class = "UILabel"; text = "Thursday"; ObjectID = "KBZ-aQ-Bey"; */
+"KBZ-aQ-Bey.text" = "Thursday";
+
+/* Class = "UILabel"; text = "One Way"; ObjectID = "KGJ-5b-sX5"; */
+"KGJ-5b-sX5.text" = "One Way";
+
+/* Class = "UITextField"; placeholder = "Referral Code (Optional)"; ObjectID = "KLB-U7-YOG"; */
+"KLB-U7-YOG.placeholder" = "Referral Code (Optional)";
+
+/* Class = "UILabel"; text = "Trip Type"; ObjectID = "KSe-Oo-sgG"; */
+"KSe-Oo-sgG.text" = "Trip Type";
+
+/* Class = "UILabel"; text = "Saturday"; ObjectID = "KWX-6D-OrS"; */
+"KWX-6D-OrS.text" = "Saturday";
+
+/* Class = "UITextField"; placeholder = "PlaceHolder"; ObjectID = "KxT-VM-7ip"; */
+"KxT-VM-7ip.placeholder" = "PlaceHolder";
+
+/* Class = "UILabel"; text = "label"; ObjectID = "LMa-9h-IWr"; */
+"LMa-9h-IWr.text" = "label";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "NiH-KW-vSm"; */
+"NiH-KW-vSm.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Total members"; ObjectID = "O0U-IM-3M0"; */
+"O0U-IM-3M0.text" = "Total members";
+
+/* Class = "UITextField"; placeholder = "Car Model"; ObjectID = "Oq4-Ad-lid"; */
+"Oq4-Ad-lid.placeholder" = "Car Model";
+
+/* Class = "UILabel"; text = "67CVE"; ObjectID = "PIQ-pQ-adw"; */
+"PIQ-pQ-adw.text" = "67CVE";
+
+/* Class = "UITextField"; placeholder = "+91"; ObjectID = "Pny-QD-XVf"; */
+"Pny-QD-XVf.placeholder" = "+91";
+
+/* Class = "UILabel"; text = "Monday"; ObjectID = "Pot-TP-HLQ"; */
+"Pot-TP-HLQ.text" = "Monday";
+
+/* Class = "UITextField"; placeholder = "PlaceHolder"; ObjectID = "QG7-yg-N51"; */
+"QG7-yg-N51.placeholder" = "PlaceHolder";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "RPM-aP-WL6"; */
+"RPM-aP-WL6.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "RT2-tL-0RT"; */
+"RT2-tL-0RT.placeholder" = "Confirm Password";
+
+/* Class = "UITextField"; placeholder = "Vehicle Model"; ObjectID = "SY4-0c-1Ea"; */
+"SY4-0c-1Ea.placeholder" = "Vehicle Model";
+
+/* Class = "UILabel"; text = "One Way"; ObjectID = "Skq-yl-EuJ"; */
+"Skq-yl-EuJ.text" = "One Way";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "TBM-0X-HPM"; */
+"TBM-0X-HPM.placeholder" = "City";
+
+/* Class = "UITextField"; placeholder = "Vehicle Color"; ObjectID = "Tbr-Iq-IP7"; */
+"Tbr-Iq-IP7.placeholder" = "Vehicle Color";
+
+/* Class = "UITextField"; placeholder = "Enter OTP"; ObjectID = "Tfl-sy-UuK"; */
+"Tfl-sy-UuK.placeholder" = "Enter OTP";
+
+/* Class = "UITextField"; placeholder = "name@example.com"; ObjectID = "UIx-Hc-one"; */
+"UIx-Hc-one.placeholder" = "name@example.com";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "WVA-fg-TX3"; */
+"WVA-fg-TX3.placeholder" = "Name";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "Wde-Up-36Z"; */
+"Wde-Up-36Z.title" = "Item";
+
+/* Class = "UILabel"; text = "Share your Invide Code"; ObjectID = "XQA-QP-9GZ"; */
+"XQA-QP-9GZ.text" = "Share your Invide Code";
+
+/* Class = "UITextField"; placeholder = "Car Category"; ObjectID = "Xcj-0r-7WM"; */
+"Xcj-0r-7WM.placeholder" = "Car Category";
+
+/* Class = "UITextField"; placeholder = "Referral Code (optional)"; ObjectID = "Xiq-bQ-nJt"; */
+"Xiq-bQ-nJt.placeholder" = "Referral Code (optional)";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "YHm-tb-nX7"; */
+"YHm-tb-nX7.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Refer your friends to drive!"; ObjectID = "Ycc-2o-sVF"; */
+"Ycc-2o-sVF.text" = "Refer your friends to drive!";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "acj-Uy-aoj"; */
+"acj-Uy-aoj.placeholder" = "New Password";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "bLG-L3-IBu"; */
+"bLG-L3-IBu.title" = "Item";
+
+/* Class = "UITextField"; placeholder = "Last name"; ObjectID = "bWF-Iu-Cae"; */
+"bWF-Iu-Cae.placeholder" = "Last name";
+
+/* Class = "UILabel"; text = "Outstation"; ObjectID = "d45-Tp-lu9"; */
+"d45-Tp-lu9.text" = "Outstation";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dEH-FV-JU4"; */
+"dEH-FV-JU4.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "e0b-T5-CiN"; */
+"e0b-T5-CiN.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Note: Please enter the OTP sent to your registered email address"; ObjectID = "e4H-L6-0OT"; */
+"e4H-L6-0OT.text" = "Note: Please enter the OTP sent to your registered email address";
+
+/* Class = "UILabel"; text = "Outstation"; ObjectID = "e6F-rS-2sd"; */
+"e6F-rS-2sd.text" = "Outstation";
+
+/* Class = "UILabel"; text = "Personal"; ObjectID = "eCl-4I-yY1"; */
+"eCl-4I-yY1.text" = "Personal";
+
+/* Class = "UISearchBar"; placeholder = "Search"; ObjectID = "efD-BG-U7Y"; */
+"efD-BG-U7Y.placeholder" = "Search";
+
+/* Class = "UITextField"; placeholder = "Vehicle Model"; ObjectID = "fY5-jZ-mqn"; */
+"fY5-jZ-mqn.placeholder" = "Vehicle Model";
+
+/* Class = "UITextField"; placeholder = "Country"; ObjectID = "fYs-dP-blh"; */
+"fYs-dP-blh.placeholder" = "Country";
+
+/* Class = "UIButton"; normalTitle = "Past"; ObjectID = "g6q-YQ-Ru1"; */
+"g6q-YQ-Ru1.normalTitle" = "Past";
+
+/* Class = "UIButton"; normalTitle = "Past"; ObjectID = "gc9-tz-oQZ"; */
+"gc9-tz-oQZ.normalTitle" = "Past";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gtF-X1-skh"; */
+"gtF-X1-skh.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Driver Proof"; ObjectID = "iX4-6R-KFh"; */
+"iX4-6R-KFh.text" = "Driver Proof";
+
+/* Class = "UITextField"; placeholder = "Vehicle Model"; ObjectID = "ido-I1-tBM"; */
+"ido-I1-tBM.placeholder" = "Vehicle Model";
+
+/* Class = "UILabel"; text = "Two Way"; ObjectID = "ieZ-xU-haA"; */
+"ieZ-xU-haA.text" = "Two Way";
+
+/* Class = "UITextField"; placeholder = "PlaceHolder"; ObjectID = "jEa-tm-rzi"; */
+"jEa-tm-rzi.placeholder" = "PlaceHolder";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "jov-rr-ybG"; */
+"jov-rr-ybG.normalTitle" = "X";
+
+/* Class = "UITextField"; placeholder = "PlaceHolder"; ObjectID = "kHD-xr-mQK"; */
+"kHD-xr-mQK.placeholder" = "PlaceHolder";
+
+/* Class = "UILabel"; text = "Sharkath Khan1e3"; ObjectID = "kL4-Kh-YG4"; */
+"kL4-Kh-YG4.text" = "Sharkath Khan1e3";
+
+/* Class = "UITextField"; placeholder = "PlaceHolder"; ObjectID = "kx1-38-SvC"; */
+"kx1-38-SvC.placeholder" = "PlaceHolder";
+
+/* Class = "UITextField"; placeholder = "Last name"; ObjectID = "l0J-uK-lr6"; */
+"l0J-uK-lr6.placeholder" = "Last name";
+
+/* Class = "UITextField"; placeholder = "Vehicle Model"; ObjectID = "l7x-4D-DUK"; */
+"l7x-4D-DUK.placeholder" = "Vehicle Model";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lAY-hM-Th4"; */
+"lAY-hM-Th4.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Support"; ObjectID = "lpo-1W-gOT"; */
+"lpo-1W-gOT.text" = "Support";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "mQW-IR-De3"; */
+"mQW-IR-De3.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Your Referral Code"; ObjectID = "mfB-sw-dmi"; */
+"mfB-sw-dmi.text" = "Your Referral Code";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "muW-r1-h8z"; */
+"muW-r1-h8z.text" = "Sunday";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "mzU-bm-1an"; */
+"mzU-bm-1an.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Business"; ObjectID = "pRx-fW-682"; */
+"pRx-fW-682.text" = "Business";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qOl-Zw-BWs"; */
+"qOl-Zw-BWs.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "TIme Zone"; ObjectID = "qSA-zG-WW2"; */
+"qSA-zG-WW2.placeholder" = "TIme Zone";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "s46-MA-Kcx"; */
+"s46-MA-Kcx.placeholder" = "Confirm Password";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sKM-dE-Uhg"; */
+"sKM-dE-Uhg.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Vehicle License Plate"; ObjectID = "svg-jO-wIa"; */
+"svg-jO-wIa.placeholder" = "Vehicle License Plate";
+
+/* Class = "UILabel"; text = "Outstation"; ObjectID = "tBg-lR-hB6"; */
+"tBg-lR-hB6.text" = "Outstation";
+
+/* Class = "UITextField"; placeholder = "PhoneNumber"; ObjectID = "tXc-4e-psY"; */
+"tXc-4e-psY.placeholder" = "PhoneNumber";
+
+/* Class = "UIBarButtonItem"; title = "Your trips"; ObjectID = "tYO-Sh-Thr"; */
+"tYO-Sh-Thr.title" = "Your trips";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "tal-Oj-Hyu"; */
+"tal-Oj-Hyu.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Upcoming"; ObjectID = "vFy-Kr-Di6"; */
+"vFy-Kr-Di6.normalTitle" = "Upcoming";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vKB-oA-IKO"; */
+"vKB-oA-IKO.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "vjh-Ns-cqG"; */
+"vjh-Ns-cqG.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "PlaceHolder"; ObjectID = "vwb-CF-hIH"; */
+"vwb-CF-hIH.placeholder" = "PlaceHolder";
+
+/* Class = "UITextField"; placeholder = "Car Number"; ObjectID = "wHg-Ez-qwR"; */
+"wHg-Ez-qwR.placeholder" = "Car Number";
+
+/* Class = "UILabel"; text = "I have read and agreed the Terms and Conditions"; ObjectID = "wS0-00-TkV"; */
+"wS0-00-TkV.text" = "I have read and agreed the Terms and Conditions";
+
+/* Class = "UILabel"; text = "Rental"; ObjectID = "y8S-KI-tsQ"; */
+"y8S-KI-tsQ.text" = "Rental";
+
+/* Class = "UILabel"; text = "Tuesday"; ObjectID = "yVu-mj-5br"; */
+"yVu-mj-5br.text" = "Tuesday";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "yt5-c5-uBn"; */
+"yt5-c5-uBn.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yuv-l8-yVD"; */
+"yuv-l8-yVD.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Service Type"; ObjectID = "z2T-OS-32T"; */
+"z2T-OS-32T.placeholder" = "Service Type";
